@@ -33,3 +33,9 @@
  	<img alt="Discord" 		src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white"/>
 	<img alt="Twitter" 		src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white"/>
 </p>
+
+<h2> Wallet </h2>
+<p>
+ 	<img alt="Ethereum" 		src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=white"/>
+	0xAB072E0A11E6E92A9F07FD4C28F343aAEc723302
+</p>
