@@ -18,6 +18,9 @@
   	<img alt="C++" 			src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>
   	<img alt="Git" 			src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
  	<img alt="Docker" 		src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
+	<img alt="HTML5" 		src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white"/>
+	<img alt="CSS3" 		src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white"/>
+	<img alt="JavaScript" 		src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
 </p>
 <h2> Tools </h2>
 <p>
