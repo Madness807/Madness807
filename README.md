@@ -8,7 +8,7 @@
 
 <h3> TECH </h3>
 <p>
-  	<img alt="GNU Bash" 		src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=bash&logoColor=white"/>
+  	<img alt="GNU Bash" 		src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=white"/>
   	<img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>
   	<img alt="C++" 			src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>
   	<img alt="Git" 			src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
