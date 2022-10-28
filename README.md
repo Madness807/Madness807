@@ -8,7 +8,7 @@
 <p>
   	<img alt="linux Mint"	 	src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white"/>
   	<img alt="Windows 11" 		src="https://img.shields.io/badge/-Windows-5E5E5E?logo=Windows&logoColor=white"/>
-  	<img alt="Mac OS" 		src="https://img.shields.io/badge/-Mac OS-000000?logo=Mac OS&logoColor=white"/>
+  	<img alt="Mac OS" 		src="https://img.shields.io/badge/-Mac Os-000000?logo=Apple&logoColor=white"/>
 	<img alt="Android" 		src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
 </p>
 <h2> TECH </h2>
@@ -36,6 +36,6 @@
 
 <h2> Wallet </h2>
 <p>
- 	<img alt="Ethereum" 		src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=white"/>
-	0xAB072E0A11E6E92A9F07FD4C28F343aAEc723302
+	<img alt="Bitcoin" 		src="https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=white"/>
+ 	<img alt="Ethereum" 		src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=white"/>	
 </p>
