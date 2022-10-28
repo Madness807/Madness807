@@ -1,5 +1,8 @@
 
-<h1> Main quest </h1><img alt="42 Lausnne" 		src="https://img.shields.io/badge/-42 Lausanne-3DDC84?logo=42&logoColor=white"/>  
+<h1> Main quest </h1>
+
+[<img alt="42 Lausnne" 		src="https://img.shields.io/badge/-42 Lausanne-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Lausanne#42-lausanne)
+
 
 <h2> OS </h2>
 <p>
