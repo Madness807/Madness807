@@ -1,35 +1,32 @@
-<h3> Operating system i use </h3>
+<h3> OS </h3>
 <p>
-  <img alt="linux Mint"	 	src="https://img.shields.io/badge/Linux-Mint-green"/>
-  <img alt="Windows 11" 	src="https://img.shields.io/badge/Windows-11-blue"/>
-  <img alt="Mac OS" 			src="https://img.shields.io/badge/Mac%20OS-monterey-yellow"/>
+  	<img alt="linux Mint"	 	src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white"/>
+  	<img alt="Windows 11" 		src="https://img.shields.io/badge/-Windows-5E5E5E?logo=Windows&logoColor=white"/>
+  	<img alt="Mac OS" 		src="https://img.shields.io/badge/-Mac OS-000000?logo=Mac OS&logoColor=white"/>
+	<img alt="Android" 		src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
 </p>
 
-<h3> TECH I LEARN </h3>
+<h3> TECH </h3>
 <p>
-  <img alt="GNU Bash" 		src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=bash&logoColor=white"/>
-  <img alt="C" 						src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>
-  <img alt="C++" 					src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>
-  <img alt="Git" 					src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
-  <img alt="Docker" 			src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
+  	<img alt="GNU Bash" 		src="https://img.shields.io/badge/-GNU Bash-4EAA25?logo=bash&logoColor=white"/>
+  	<img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>
+  	<img alt="C++" 			src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>
+  	<img alt="Git" 			src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
+ 	<img alt="Docker" 		src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
 </p>
 
-<h3> Tools i use </h3>
+<h3> Tools </h3>
 <p>
-  <img alt="GitBook" 		src="https://img.shields.io/badge/-GitBook-3884FF?logo=Gitbook&logoColor=white"/>
-  
+  	<img alt="GitBook" 		src="https://img.shields.io/badge/-GitBook-3884FF?logo=Gitbook&logoColor=white"/>
+	<img alt="VIM" 			src="https://img.shields.io/badge/-VIM-019733?logo=VIM&logoColor=white"/>
+	<img alt="Notion" 		src="https://img.shields.io/badge/-Notion-019733?logo=Notion&logoColor=white"/>
+	<img alt="Obsidian" 		src="https://img.shields.io/badge/-Obsidian-483699?logo=Obsidian&logoColor=white"/>
+	<img alt="N8N" 			src="https://img.shields.io/badge/-N8N-red"/>					
+	
 </p>
 
-<h3> Where you can find me </h3>
+<h3> Social </h3>
 <p>
-  <img alt="Discord" 		src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white"/>
+ 	<img alt="Discord" 		src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white"/>
 	<img alt="Twitter" 		src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white"/>
 </p>
-
-
-| Tables   |      Are      | 
-|----------|:-------------:|
-| OS |  <img alt="linux Mint"	 	src="https://img.shields.io/badge/Linux-Mint-green"/><img alt="Windows 11" 	src="https://img.shields.io/badge/Windows-11-blue"/>| 
-| TECH |    centered   | 
-| TOOLS | right-aligned |
-| Social | right-aligned |
