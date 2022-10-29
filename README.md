@@ -26,7 +26,7 @@
 <p>
   	<img alt="GitBook" 		src="https://img.shields.io/badge/-GitBook-3884FF?logo=Gitbook&logoColor=white"/>
 	<img alt="VIM" 			src="https://img.shields.io/badge/-VIM-019733?logo=VIM&logoColor=white"/>
-	<img alt="Notion" 		src="https://img.shields.io/badge/-Notion-019733?logo=Notion&logoColor=white"/>
+	<img alt="Notion" 		src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white"/>
 	<img alt="Obsidian" 		src="https://img.shields.io/badge/-Obsidian-483699?logo=Obsidian&logoColor=white"/>
 	<img alt="N8N" 			src="https://img.shields.io/badge/-N8N-red"/>					
 	
