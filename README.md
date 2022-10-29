@@ -30,6 +30,7 @@
 	<img alt="Obsidian" 		src="https://img.shields.io/badge/-Obsidian-483699?logo=Obsidian&logoColor=white"/>
 	<img alt="N8N" 			src="https://img.shields.io/badge/-N8N-red"/>	
 	<img alt="SketchUp" 		src="https://img.shields.io/badge/-SketchUp-005F9E?logo=SketchUp&logoColor=white"/>
+	<img alt="Figma" 		src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
 	
 </p>
 <h2> Social </h2>
