@@ -28,13 +28,15 @@
 	<img alt="VIM" 			src="https://img.shields.io/badge/-VIM-019733?logo=VIM&logoColor=white"/>
 	<img alt="Notion" 		src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white"/>
 	<img alt="Obsidian" 		src="https://img.shields.io/badge/-Obsidian-483699?logo=Obsidian&logoColor=white"/>
-	<img alt="N8N" 			src="https://img.shields.io/badge/-N8N-red"/>					
+	<img alt="N8N" 			src="https://img.shields.io/badge/-N8N-red"/>	
+	<img alt="SketchUp" 		src="https://img.shields.io/badge/-SketchUp-005F9E?logo=SketchUp&logoColor=white"/>
 	
 </p>
 <h2> Social </h2>
 <p>
  	<img alt="Discord" 		src="https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white"/>
 	<img alt="Twitter" 		src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white"/>
+	<img alt="Telegram" 		src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=white"/>
 </p>
 
 <h2> Wallet </h2>
