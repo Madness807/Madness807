@@ -2,7 +2,7 @@
 <h1> Repository </h1>
 
 [<img alt="42 Lausnne" 		src="https://img.shields.io/badge/-42 Lausanne-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Lausanne#42-lausanne)
-
+[<img alt="Private" 		src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>](https://github.com/Madness807/42_Side_Project)
 
 <h2> OS </h2>
 <p>
