@@ -1,7 +1,8 @@
 
 <h1> Repository </h1>
 
-[<img alt="Shcool Project" 		src="https://img.shields.io/badge/-School Project-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Lausanne#42-lausanne)
+[<img alt="Piscine" 			src="https://img.shields.io/badge/-Piscine-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Piscine)
+[<img alt="Cursus" 			src="https://img.shields.io/badge/-Cursus-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Lausanne#42-lausanne)
 [<img alt="Side Project" 		src="https://img.shields.io/badge/-Side Project-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Side_Project)
 [<img alt="Private" 			src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>](https://github.com/Madness807/Private)
 
