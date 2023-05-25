@@ -30,4 +30,3 @@
 	<img alt="Bitcoin" 		src="https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=white"/>
  	<img alt="Ethereum" 		src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=white"/>	
 </p>
-
