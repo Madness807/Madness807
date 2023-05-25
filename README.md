@@ -6,17 +6,6 @@
 [<img alt="Side Project" 		src="https://img.shields.io/badge/-Side Project-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Side_Project)
 [<img alt="Private" 			src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>](https://github.com/Madness807/Private)
 
-<h2> TECH </h2>
-<p>
-  	<img alt="GNU Bash" 		src="https://img.shields.io/badge/-Bash-4EAA25?logo=GNU Bash&logoColor=white"/>
-  	<img alt="C" 			src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white"/>
-  	<img alt="C++" 			src="https://img.shields.io/badge/-C++-00599C?logo=C++&logoColor=white"/>
-  	<img alt="Git" 			src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
- 	<img alt="Docker" 		src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
-	<img alt="HTML5" 		src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white"/>
-	<img alt="CSS3" 		src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white"/>
-	<img alt="JavaScript" 		src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
-</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madness807&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <h2> Tools </h2>
 <p>
