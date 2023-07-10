@@ -6,7 +6,7 @@
 [<img alt="Side Project" 		src="https://img.shields.io/badge/-Side Project-3DDC84?logo=42&logoColor=white"/>](https://github.com/Madness807/42_Side_Project)
 [<img alt="Private" 			src="https://img.shields.io/badge/-Private-3DDC84?logoColor=white"/>](https://github.com/Madness807/Private)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madness807&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <h2> Tools </h2>
 <p>
   	<img alt="GitBook" 		src="https://img.shields.io/badge/-GitBook-3884FF?logo=Gitbook&logoColor=white"/>
