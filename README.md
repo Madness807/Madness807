@@ -24,8 +24,4 @@
 	<img alt="Telegram" 		src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=white"/>
 </p>
 
-<h2> Wallet </h2>
-<p>
-	<img alt="Bitcoin" 		src="https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=white"/>
- 	<img alt="Ethereum" 		src="https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=white"/>	
-</p>
+[![joterret's 42 stats](https://badge.mediaplus.ma/darkblue/joterret?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
