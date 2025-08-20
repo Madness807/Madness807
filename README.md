@@ -35,11 +35,3 @@
 
 ---
 
-
----
-
-## 📫 Contact
-
-- **Email** : ton.email@exemple.com  
-- **Portfolio** : [Lien](https://tonportfolio.com)
-
