@@ -1,5 +1,3 @@
-💻 Étudiant @ 42 Lausanne  
-
 ---
 
 ## 🔥 Stats & Langages
@@ -25,13 +23,8 @@
 
 ---
 
-## 🏫 Projets 42
-
-[![Piscine](https://img.shields.io/badge/-Piscine-3DDC84?logo=42&logoColor=white)](https://github.com/Madness807/42_Piscine)
 [![Cursus](https://img.shields.io/badge/-Cursus-3DDC84?logo=42&logoColor=white)](https://github.com/Madness807/42_Lausanne#42-lausanne)
 [![Private](https://img.shields.io/badge/-Private-3DDC84?logoColor=white)](https://github.com/Madness807/Private)
-
-[![joterret's 42 stats](https://badge.mediaplus.ma/darkblue/joterret?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
