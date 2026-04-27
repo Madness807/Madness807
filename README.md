@@ -88,7 +88,6 @@ I like building systems that make complexity understandable.
 |---------|-------------|
 | **[dev-watch](https://github.com/Madness807/dev-watch)** | Local dashboard to monitor processes, Docker containers & network ports on your dev machine `beta` |
 | **[Nexus Archive](https://github.com/Madness807)** | OSINT platform with structured claim/evidence system and audit trail `alpha` |
-| **[Invest & Conquer](https://github.com/Madness807)** | Real-time team coordination app for large-scale events (airsoft) `beta` |
 
 ---
 
