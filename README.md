@@ -30,8 +30,6 @@ From cables on construction sites to LLMs in production — the thread is the sa
 
 Starting from electrical work and telecoms (low-voltage, fiber optic splicing, structured cabling, rack building), I climbed the stack layer by layer all the way to AI.
 
-Today I'm building **Nexlith** to help companies automate workflows and make better use of their data with AI, while sharpening my foundations at **École 42 Lausanne**.
-
 - 🤖 AI systems (LLM, RAG, automation)
 - ⚙️ Infrastructure & deployment (self-hosted, scalable)
 
